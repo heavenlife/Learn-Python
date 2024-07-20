@@ -1,0 +1,89 @@
+{
+  "LearnPython": [
+    {
+      "id": 1,
+      "title": "Introduction Python",
+      "web_site": "https://sites.google.com/view/alians-java-1/home"
+    },
+    {
+      "id": 2,
+      "title": "What is Python",
+      "web_site": "https://sites.google.com/view/alians-java-2/home"
+    },
+    {
+      "id": 3,
+      "title": "Features of Python",
+      "web_site": "https://sites.google.com/view/alians-java-3/home"
+    },
+    {
+      "id": 4,
+      "title": "Python Basic Syntax",
+      "web_site": "https://sites.google.com/view/alians-java-4/home"
+    },
+    {
+      "id": 5,
+      "title": "Python Popular Frameworks and Libraries",
+      "web_site": "https://sites.google.com/view/alians-java-5/home"
+    },
+    {
+      "id": 6,
+      "title": "Python print() Function",
+      "web_site": "https://sites.google.com/view/alians-java-6/home"
+    },
+    {
+      "id": 7,
+      "title": "Python Conditional Statements",
+      "web_site": "https://sites.google.com/view/alians-java-7/home"
+    },
+    {
+      "id": 8,
+      "title": "Python Loops",
+      "web_site": "https://sites.google.com/view/alians-java-8/home"
+    },
+    {
+      "id": 9,
+      "title": "Python Data Structures",
+      "web_site": "https://sites.google.com/view/alians-java-9/home"
+    },
+    {
+      "id": 10,
+      "title": "Python Functional Programming",
+      "web_site": "https://sites.google.com/view/alians-java-10/home"
+    },
+    {
+      "id": 11,
+      "title": "Applications of Python",
+      "web_site": "https://sites.google.com/view/alians-java-11/home"
+    },
+    {
+      "id": 12,
+      "title": "How to Install Python Steps",
+      "web_site": "https://sites.google.com/view/alians-java-12/home"
+    },
+    {
+      "id": 13,
+      "title": "Explain with example what is Variable",
+      "web_site": "https://sites.google.com/view/alians-java-13/home"
+    },
+    {
+      "id": 14,
+      "title": "What is Data Types in Python",
+      "web_site": "https://sites.google.com/view/alians-java-14/home"
+    },
+    {
+      "id": 15,
+      "title": "Explain All Operators in Python",
+      "web_site": "https://sites.google.com/view/alians-java-15/home"
+    },
+    {
+      "id": 16,
+      "title": "Which Comments Python & Why Use Comments?",
+      "web_site": "https://sites.google.com/view/alians-java-16/home"
+    },
+    {
+      "id": 17,
+      "title": "Explain If-else statements in Python",
+      "web_site": "https://sites.google.com/view/alians-java-17/home"
+    }
+  ]
+}
