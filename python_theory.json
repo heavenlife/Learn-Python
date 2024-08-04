@@ -84,6 +84,56 @@
       "id": 17,
       "title": "Decision-making statements in Python",
       "web_site": "https://sites.google.com/view/alians-python-17/home"
+    },
+     {
+      "id": 18,
+      "title": "Break statement in python",
+      "web_site": "https://sites.google.com/view/alians-python-18/home"
+    },
+    {
+      "id": 19,
+      "title": "Continue Statement in python",
+      "web_site": "https://sites.google.com/view/alians-python-19/home"
+    },
+    {
+      "id": 20,
+      "title": "Pass Statement in Python",
+      "web_site": "https://sites.google.com/view/alians-python-20/home"
+    },
+    {
+      "id": 21,
+      "title": "List in python",
+      "web_site": "https://sites.google.com/view/alians-python-21/home"
+    },
+    {
+      "id": 22,
+      "title": "Tuples in python",
+      "web_site": "https://sites.google.com/view/alians-python-22/home"
+    },
+    {
+      "id": 23,
+      "title": "Set in python",
+      "web_site": "https://sites.google.com/view/alians-python-23/home"
+    },
+    {
+      "id": 24,
+      "title": "Python If ... Else",
+      "web_site": "https://sites.google.com/view/alians-python-24/home"
+    },
+    {
+      "id": 25,
+      "title": "Python While Loops",
+      "web_site": "https://sites.google.com/view/alians-python-25/home"
+    },
+    {
+      "id": 26,
+      "title": "Python For Loops",
+      "web_site": "https://sites.google.com/view/alians-python-26/home"
+    },
+    {
+      "id": 27,
+      "title": "Python Lambda",
+      "web_site": "https://sites.google.com/view/alians-python-27/home"
     }
   ]
 }
