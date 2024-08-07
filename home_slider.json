@@ -1,2 +1,8 @@
-imageSlider{
+{
+  "sliderImages": [
+    "https://www.unite.ai/wp-content/uploads/2022/04/AI-Python-Libraries-1000x600.png",
+    "https://www.unite.ai/wp-content/uploads/2022/07/Python-Libraries-used-for-Graphical-User-Interface.png",
+    "https://datascientest.com/wp-content/uploads/2023/04/DALL%C2%B7E-2024-01-19-12.28.48-At-the-center-of-the-image-is-a-large-prominently-displayed-Python-programming-language-logo.-Surrounding-the-logo-are-cartoon-illustrations-of-diver.png",
+    "https://ioflood.com/blog/wp-content/uploads/2023/09/Collage-of-Python-programming-aspects-syntax-libraries-Python-symbols-logo.jpg",
+  ]
 }
