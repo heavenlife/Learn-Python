@@ -85,7 +85,7 @@
       "title": "Decision-making statements in Python",
       "web_site": "https://sites.google.com/view/alians-python-17/home"
     },
-     {
+    {
       "id": 18,
       "title": "Break statement in python",
       "web_site": "https://sites.google.com/view/alians-python-18/home"
@@ -134,6 +134,56 @@
       "id": 27,
       "title": "Python Lambda",
       "web_site": "https://sites.google.com/view/alians-python-27/home"
+    },
+     {
+      "id": 28,
+      "title": "Arrays in python",
+      "web_site": "https://sites.google.com/view/alians-python-28/home"
+    },
+    {
+      "id": 29,
+      "title": "Classes and Objects in Python",
+      "web_site": "https://sites.google.com/view/alians-python-29/home"
+    },
+    {
+      "id": 30,
+      "title": "Inheritance in python",
+      "web_site": "https://sites.google.com/view/alians-python-30/home"
+    },
+    {
+      "id": 31,
+      "title": "Polymorphism in python",
+      "web_site": "https://sites.google.com/view/alians-python-31/home"
+    },
+    {
+      "id": 32,
+      "title": "Modules in python",
+      "web_site": "https://sites.google.com/view/alians-python-32/home"
+    },
+    {
+      "id": 33,
+      "title": "DateTime in python",
+      "web_site": "https://sites.google.com/view/alians-python-33/home"
+    },
+    {
+      "id": 34,
+      "title": "Math in python",
+      "web_site": "https://sites.google.com/view/alians-python-34/home"
+    },
+    {
+      "id": 35,
+      "title": "Try Except in Python",
+      "web_site": "https://sites.google.com/view/alians-python-35/home"
+    },
+    {
+      "id": 36,
+      "title": "File Open in python",
+      "web_site": "https://sites.google.com/view/alians-python-36/home"
+    },
+    {
+      "id": 37,
+      "title": "Read File in python",
+      "web_site": "https://sites.google.com/view/alians-python-37/home"
     }
   ]
 }
